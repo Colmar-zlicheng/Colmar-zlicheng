@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats-snow.vercel.app/api/top-langs/?username=Colmar-zlicheng&layout=compact"/>
 </a>
 <a >
-  <img align="center" src="https://github-readme-stats-snow.vercel.app/api?username=Colmar-zlicheng&show_icons=true&theme=radical"/>
+  <img align="right" src="https://github-readme-stats-snow.vercel.app/api?username=Colmar-zlicheng&show_icons=true&theme=radical"/>
 </a>
 
 <!--
