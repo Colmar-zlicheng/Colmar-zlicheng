@@ -1,8 +1,8 @@
 ### :snowflake: Hi there 👋
-[![Top Langs](https://github-readme-stats-snow.vercel.app/api/top-langs/?username=Colmar-zlicheng&layout=compact)](https://github.com/Colmar-zlicheng)
+<!-- [![Top Langs](https://github-readme-stats-snow.vercel.app/api/top-langs/?username=Colmar-zlicheng&layout=compact)](https://github.com/Colmar-zlicheng)
 
 ![Anurag's GitHub stats](https://github-readme-stats-snow.vercel.app/api?username=Colmar-zlicheng&show_icons=true&theme=radical)
-
+ -->
 
 <a href="https://github.com/Colmar-zlicheng">
   <img align="left" src="https://github-readme-stats-snow.vercel.app/api/top-langs/?username=Colmar-zlicheng&layout=compact"/>
