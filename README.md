@@ -2,6 +2,7 @@
 
 [![Top Langs](https://github-readme-stats-snow.vercel.app/api/top-langs/?username=Colmar-zlicheng&layout=compact)](https://github.com/Colmar-zlicheng)
 
+![Anurag's GitHub stats](https://github-readme-stats-snow.vercel.app/api?username=Colmar-zlicheng&show_icons=true&theme=radical)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
