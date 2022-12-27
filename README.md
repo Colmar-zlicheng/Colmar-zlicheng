@@ -5,7 +5,7 @@
 
 
 <a href="https://github.com/Colmar-zlicheng">
-  <img align="center" src="https://github-readme-stats-snow.vercel.app/api/top-langs/?username=Colmar-zlicheng&layout=compact"/>
+  <img align="left" src="https://github-readme-stats-snow.vercel.app/api/top-langs/?username=Colmar-zlicheng&layout=compact"/>
 </a>
 <a >
   <img align="right" src="https://github-readme-stats-snow.vercel.app/api?username=Colmar-zlicheng&show_icons=true&theme=radical"/>
