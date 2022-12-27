@@ -1,6 +1,6 @@
 ### :snowflake: Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colmar-zlicheng)](https://github.com/Colmar-zlicheng)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colmar-zlicheng&layout=compact)](https://github.com/Colmar-zlicheng)
 
 <!--
 **Colmar-zlicheng/Colmar-zlicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
